@@ -34,30 +34,9 @@ El editor cuenta con los comandos correspondientes a los niveles Base, 2 y 3:
 * `y [n]` — Copiar línea
 * `x [n]` — Pegar línea
 
-**Tecnologías utilizadas**
-* Lenguaje C
-* Linux
-* Llamadas al sistema POSIX
-* Manejo de archivos
-* Procesos y ejecución de programas
-* `fork()`, `execvp()` y `waitpid()`
-* Memoria dinámica
-* Terminal y entrada/salida
-
  **Pruebas**
 El proyecto incluye pruebas automatizadas para verificar el funcionamiento de los comandos, el manejo de errores, la modificación de archivos y la integración con el Shell.
 Las pruebas se ejecutan mediante el script `PRUEBAS.sh` y utilizan `pty_driver.c` para simular la interacción con el editor.
-
-**Compilación**
-Para compilar el proyecto se utiliza:
-make
-También se puede utilizar:
-make editor
-para compilar el editor, y:
-make shell
-para compilar el Shell.
-Para eliminar los archivos generados durante la compilación:
-make clean
 
 **Ejecución**
 El editor puede ejecutarse directamente desde su carpeta utilizando:
