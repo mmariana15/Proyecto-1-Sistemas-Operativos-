@@ -79,6 +79,5 @@ Se emplearon principalmente para:
 * Se buscó comprender el funcionamiento del código utilizado.
 * La IA se utilizó como herramienta de apoyo y no como reemplazo del trabajo realizado por el equipo.
 
-  **Codigo**
-  [ver codigo](./proyecto.cpp)
+
   
