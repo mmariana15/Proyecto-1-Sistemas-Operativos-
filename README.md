@@ -80,4 +80,5 @@ Se emplearon principalmente para:
 * La IA se utilizó como herramienta de apoyo y no como reemplazo del trabajo realizado por el equipo.
 
   **Codigo**
-  [ver codigo](./proyecto.cpp)}
+  [ver codigo](./proyecto.cpp)
+  
