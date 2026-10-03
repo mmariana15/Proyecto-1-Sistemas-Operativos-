@@ -78,3 +78,6 @@ Se emplearon principalmente para:
 * La implementación y desarrollo del proyecto fueron realizados por los integrantes.
 * Se buscó comprender el funcionamiento del código utilizado.
 * La IA se utilizó como herramienta de apoyo y no como reemplazo del trabajo realizado por el equipo.
+
+  **Codigo**
+  [ver codigo](./proyecto.cpp)}
